@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a robot 
 - 🌱 I’m currently learning cook my own meals
-- 👯 I’m looking to collaborate on Nike
+- 👯 I’m looking to collaborate with Nike
 - 💬 Ask me about shoes 
 - ⚡ Fun fact: I have 50+ worth of shoes 
 
