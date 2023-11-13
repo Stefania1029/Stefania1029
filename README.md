@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on robot 
+- 🔭 I’m currently working on a robot 
 - 🌱 I’m currently learning cook my own meals
 - 👯 I’m looking to collaborate on Nike
 - 💬 Ask me about shoes 
