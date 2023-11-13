@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on robot 
+- 🌱 I’m currently learning cook my own meals
+- 👯 I’m looking to collaborate on Nike
+- 💬 Ask me about shoes 
+- ⚡ Fun fact: I have 50+ worth of shoes 
 
 <!--
 **Stefania1029/Stefania1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
